@@ -1,2 +1,5 @@
-# d-koppenhagen
-My Github Profile
+# Danny Koppenhagen
+
+* Web Developer
+* Consultant
+* Open Source Enthusiast

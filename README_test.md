@@ -1,5 +1,4 @@
 # Hi Fellow Devs :wave:
-
 <p align="center">
   <samp>
 I'm Danny Koppenhagen. A Web Developer, Consultant, Author and and Open Source Enthusiast from Berlin (Germany).
@@ -7,6 +6,11 @@ I'm Danny Koppenhagen. A Web Developer, Consultant, Author and and Open Source E
 </p>
 
 <table style="border: none;">
+  <style>
+.site-main table.no-border td {
+    border: none;
+}
+</style>
   <tr style="border: none;">
     <td width="50%" style="border: none; vertical-align:top;">
       <h2>Angular Buch 📕</h2>
@@ -24,6 +28,7 @@ I'm Danny Koppenhagen. A Web Developer, Consultant, Author and and Open Source E
       <p>📧 <a href="mailto:mail@d-koppenhagen.de">Send an e-mail</a></p>
       <p>🌐 <a href="https://d-koppenhagen.de">Checkout my website</a></p>
       <p>📝 <a href="https://d-koppenhagen.de/blog">Checkout my blog</a></p>
+      <p></p><p></p><p></p><p></p><p></p><p></p><p></p>
     </td>
   </tr>
 </table>

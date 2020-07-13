@@ -1,0 +1,14 @@
+{
+  "name": "d-koppenhagen",
+  "version": "1.0.0",
+  "description": "My Github Profile Page Script",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "common-tags": "^1.8.0",
+    "prettier": "^2.0.5"
+  }
+}

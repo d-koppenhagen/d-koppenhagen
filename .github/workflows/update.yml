@@ -6,9 +6,8 @@ on:
   push:
     branches:
       - master
-# on:
-#   schedule:
-#     - cron: "0 * * * *"
+  schedule:
+    - cron: "0 * * * *"
 
 jobs:
   build:

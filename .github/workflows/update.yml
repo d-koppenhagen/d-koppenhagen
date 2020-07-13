@@ -1,8 +1,8 @@
 name: Update
 
-on:
-  schedule:
-    - cron: "0 * * * *"
+# on:
+#   schedule:
+#     - cron: "0 * * * *"
 
 jobs:
   build:

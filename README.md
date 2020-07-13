@@ -58,4 +58,3 @@ Get in touch wit me!
 
 :memo: <a href="https://d-koppenhagen.de/blog">Checkout my blog</a>
 
-tmp

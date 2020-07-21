@@ -11,7 +11,7 @@ I'm Danny Koppenhagen. A Web Developer, Consultant, Author and and Open Source E
 Together with [@fmalcher](https://github.com/fmalcher) [@JohannesHoppe](https://github.com/JohannesHoppe) I authored a german book about [Angular](https://angular.io) which is currently available in the third edition:
 
 <p align="center">
-  <a href="https://angular-buch.com"><img src="https://api4.angular-buch.com/images/angular_auflage3_small.jpg" alt="Angular - Grundlagen, fortgeschrittene Themen und Best Practices (3. Auflage)"></img></a>
+  <a href="https://angular-buch.com"><img src="https://angular-buch.com/assets/img/book-cover-multiple.png" alt="Angular - Grundlagen, fortgeschrittene Themen und Best Practices (3. Auflage)"></img></a>
 </p>
 
 ## Current Blog Posts :pencil:

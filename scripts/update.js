@@ -29,18 +29,21 @@ function updateReadme(posts) {
     .slice(0, maxDisplay)
     .forEach(post => {
       const data = stripIndent`
-        ### ${post.language.toLowerCase() === 'de' ? ':de:' : ':us:'} ${post.title}
-        
-        ![Banner](${baseURL}/${post.thumbnailSmall})
-
-        ${post.description}
-
-        [Read more](${baseURL}/${post.route})
+        <tr>
+          <td>
+            <h3>${post.language.toLowerCase() === 'de' ? ':de:' : ':us:'} ${post.title}</h3>
+            <p>${post.description}</p>
+            <a href="${baseURL}/${post.route}">:arrow_forward: Read more</a>
+          </td>
+          <td>
+            <img src="${baseURL}/${post.thumbnailSmall}" alt="Banner" width="400px">
+          </td>
+        </tr>
       `;
       content += `${data}${EOL}${EOL}`;
     });
 
-  const newReadme = baseReadme.replace('BLOG_POSTS_PLACEHOLDER', content);
+  const newReadme = baseReadme.replace('BLOG_POSTS_PLACEHOLDER', `<table>${content}</table>`);
   console.log(newReadme);
   const formatted = format(newReadme, {
     parser: 'markdown',

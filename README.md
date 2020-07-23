@@ -6,6 +6,8 @@ I'm Danny Koppenhagen. A Web Developer, Consultant, Author and and Open Source E
   </samp>
 </p>
 
+![Danny Koppenhagens Github Stats](https://github-readme-stats.vercel.app/api?username=d-koppenhagen&show_icons=true)
+
 ## Angular Buch :closed_book:
 
 Together with [@fmalcher](https://github.com/fmalcher) [@JohannesHoppe](https://github.com/JohannesHoppe) I authored a german book about [Angular](https://angular.io) which is currently available in the third edition:

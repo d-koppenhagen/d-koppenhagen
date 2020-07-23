@@ -5,7 +5,7 @@ const { format } = require('prettier');
 const { stripIndent } = require('common-tags');
 
 const baseURL = 'https://d-koppenhagen.de';
-const maxDisplay = 3;
+const maxDisplay = 5;
 
 get(`${baseURL}/assets/scully-routes.json`, (res) => {
   let data = '';

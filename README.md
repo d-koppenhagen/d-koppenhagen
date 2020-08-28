@@ -23,8 +23,8 @@ Together with [@fmalcher](https://github.com/fmalcher) [@JohannesHoppe](https://
 <table><tr>
   <td>
     <h3>:us: My Development Setup</h3>
-    <p>In this article I will present you what tools I am using during my day-to-day development. Also I will show you a list of extensions and their purpose that will help me and probably you too being more productive.</p>
-    <a href="https://d-koppenhagen.de//blog/___UNPUBLISHED___kebrxtpq_hcAHpeFvahTYDy02jRyB2gqD3PYHgIPj">:arrow_forward: Read more</a>
+    <p>In this article I will present you what tools I am using during my day-to-day development. Also I will show you a list of extensions and their purpose that help me (and probably you too!) to be more productive.</p>
+    <a href="https://d-koppenhagen.de//blog/2020-08-my-development-setup">:arrow_forward: Read more</a>
   </td>
   <td>
     <img src="https://d-koppenhagen.de/assets/images/blog/dev-setup/dev-setup-header-small.jpg" alt="Banner" width="400px">

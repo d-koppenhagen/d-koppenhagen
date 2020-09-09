@@ -27,7 +27,7 @@ Together with [@fmalcher](https://github.com/fmalcher) [@JohannesHoppe](https://
     <a href="https://d-koppenhagen.de//blog/2020-08-my-development-setup">:arrow_forward: Read more</a>
   </td>
   <td>
-    <img src="https://d-koppenhagen.de/assets/images/blog/dev-setup/dev-setup-header-small.jpg" alt="Banner" width="400px">
+    <img src="https://d-koppenhagen.de/undefined" alt="Banner" width="400px">
   </td>
 </tr>
 
@@ -38,7 +38,7 @@ Together with [@fmalcher](https://github.com/fmalcher) [@JohannesHoppe](https://
     <a href="https://d-koppenhagen.de//blog/2020-06-angular10">:arrow_forward: Read more</a>
   </td>
   <td>
-    <img src="https://d-koppenhagen.de/assets/images/blog/ng10/angular10-small.jpg" alt="Banner" width="400px">
+    <img src="https://d-koppenhagen.de/undefined" alt="Banner" width="400px">
   </td>
 </tr>
 
@@ -49,7 +49,7 @@ Together with [@fmalcher](https://github.com/fmalcher) [@JohannesHoppe](https://
     <a href="https://d-koppenhagen.de//blog/2020-03-dig-deeper-into-scully-ssg">:arrow_forward: Read more</a>
   </td>
   <td>
-    <img src="https://d-koppenhagen.de/assets/images/blog/scully/scully-header2-small.jpg" alt="Banner" width="400px">
+    <img src="https://d-koppenhagen.de/undefined" alt="Banner" width="400px">
   </td>
 </tr>
 
@@ -60,7 +60,7 @@ Together with [@fmalcher](https://github.com/fmalcher) [@JohannesHoppe](https://
     <a href="https://d-koppenhagen.de//blog/2020-02-angular9">:arrow_forward: Read more</a>
   </td>
   <td>
-    <img src="https://d-koppenhagen.de/assets/images/blog/ng9/angular9-small.jpg" alt="Banner" width="400px">
+    <img src="https://d-koppenhagen.de/undefined" alt="Banner" width="400px">
   </td>
 </tr>
 
@@ -71,7 +71,7 @@ Together with [@fmalcher](https://github.com/fmalcher) [@JohannesHoppe](https://
     <a href="https://d-koppenhagen.de//blog/2020-01-angular-scully">:arrow_forward: Read more</a>
   </td>
   <td>
-    <img src="https://d-koppenhagen.de/assets/images/blog/scully/scully-header-small.jpg" alt="Banner" width="400px">
+    <img src="https://d-koppenhagen.de/undefined" alt="Banner" width="400px">
   </td>
 </tr>
 

@@ -23,7 +23,7 @@ Together with [@fmalcher](https://github.com/fmalcher) [@JohannesHoppe](https://
 <table><tr>
   <td>
     <h3>:us: Author Angular Schematics by using common helpers</h3>
-    <p>Authoring an Angular CLI Schematic offers us a way to add, scaffold and update app related modules and files. In this article I will guide you through some common but currently undocumented helper functions you can use to achieve your goal</p>
+    <p>Authoring an Angular CLI Schematic offers us a way to add, scaffold and update app related modules and files. In this article I will guide you through some common but currently undocumented helper functions you can use to achieve your goal.</p>
     <a href="https://d-koppenhagen.de//blog/___UNPUBLISHED___kepw8ihb_clayHamVsY3FJOTrgMAekr0QFSRFKSiS">:arrow_forward: Read more</a>
   </td>
   <td>

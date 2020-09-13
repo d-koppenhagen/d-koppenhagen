@@ -25,6 +25,7 @@ function updateReadme(posts) {
 
   posts
     .filter(post => post.route.startsWith('/blog/'))
+    .filter(post => post.published)
     .reverse()
     .slice(0, maxDisplay)
     .forEach(post => {

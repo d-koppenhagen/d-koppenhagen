@@ -29,7 +29,7 @@ function updateReadme(posts) {
     .reverse()
     .slice(0, maxDisplay)
     .forEach(post => {
-    const thumb = post.thumbnail.card || post.thumbnai.header;
+    const thumb = post.thumbnail.card || post.thumbnail.header;
       const data = stripIndent`
         <tr>
           <td>

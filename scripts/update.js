@@ -4,7 +4,7 @@ const { EOL } = require('os');
 const { format } = require('prettier');
 const { stripIndent } = require('common-tags');
 
-const baseURL = 'https://d-koppenhagen.de';
+const baseURL = 'https://k9n.dev';
 const maxDisplay = 5;
 
 get(`${baseURL}/assets/scully-routes.json`, (res) => {
@@ -20,7 +20,7 @@ get(`${baseURL}/assets/scully-routes.json`, (res) => {
 });
 
 function updateReadme(posts) {
-  const baseReadme = readFileSync('./README.base.md', { encoding:'utf8', flag:'r' }); 
+  const baseReadme = readFileSync('./README.base.md', { encoding:'utf8', flag:'r' });
   let content = '';
 
   posts

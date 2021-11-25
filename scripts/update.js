@@ -29,7 +29,8 @@ function updateReadme(posts) {
     .reverse()
     .slice(0, maxDisplay)
     .forEach(post => {
-    const thumb = post.thumbnail.card || post.thumbnail.header;
+      const displayThumb = post.thumbnail.card || post.thumbnail.header;
+      const thumb = displayThumb.startsWith('http') ? displayThumb : `${baseURL}/${displayThumb}`;
       const data = stripIndent`
         <tr>
           <td>
@@ -38,7 +39,7 @@ function updateReadme(posts) {
             <a href="${baseURL}/${post.route}">:arrow_forward: Read more</a>
           </td>
           <td>
-            <img src="${baseURL}/${thumb}" alt="Banner" width="400px">
+            <img src="${thumb}" alt="Banner" width="400px">
           </td>
         </tr>
       `;

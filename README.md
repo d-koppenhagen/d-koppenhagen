@@ -27,7 +27,7 @@ Together with [@fmalcher](https://github.com/fmalcher) [@JohannesHoppe](https://
     <a href="https://k9n.dev//blog/2021-06-angular12">:arrow_forward: Read more</a>
   </td>
   <td>
-    <img src="https://k9n.dev/https://website-articles.angular-buch.com/blog/2021-06-angular12/angular12.jpg" alt="Banner" width="400px">
+    <img src="https://website-articles.angular-buch.com/blog/2021-06-angular12/angular12.jpg" alt="Banner" width="400px">
   </td>
 </tr>
 

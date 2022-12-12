@@ -2,7 +2,7 @@
 
 <p align="center">
   <samp>
-I'm Danny Koppenhagen. Frontend architect, web developer, consultant, author and open source enthusiast from Berlin (Germany).
+I'm Danny Koppenhagen. Frontend Architect, Web Developer, Consultant, Author and Open Source Enthusiast from Berlin (Germany).
   </samp>
   <br/>
   <br/>

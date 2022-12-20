@@ -23,6 +23,17 @@ Together with [@fmalcher](https://github.com/fmalcher) [@JohannesHoppe](https://
 <!--
 <table><tr>
   <td>
+    <h3>:us: Route based navigation menus in Vue</h3>
+    <p>Learn how to build a dynamic navigation menu based on the route configuration using Vue3 and Vue Router.</p>
+    <a href="https://k9n.dev//blog/2022-12-vue-route-based-nav-menu">:arrow_forward: Read more</a>
+  </td>
+  <td>
+    <img src="https://k9n.dev/assets/images/blog/vue-route-menu/vue-route-menu-small.jpg" alt="Banner" width="400px">
+  </td>
+</tr>
+
+<tr>
+  <td>
     <h3>:de: Angular 15 ist da! Die wichtigsten Neuerungen im Überblick</h3>
     <p>Am 16. November 2022 erschien die neue Major-Version Angular 15! Im Fokus des neuen Releases standen vor allem diese Themen: Stabilisierung der Standalone Components, funktionale Guards, Resolver und Interceptors sowie die Vereinfachung der initial generierten Projektdateien.</p>
     <a href="https://k9n.dev//blog/2022-11-angular15">:arrow_forward: Read more</a>
@@ -62,17 +73,6 @@ Together with [@fmalcher](https://github.com/fmalcher) [@JohannesHoppe](https://
   </td>
   <td>
     <img src="https://website-articles.angular-buch.com/blog/2021-06-angular12/angular12.jpg" alt="Banner" width="400px">
-  </td>
-</tr>
-
-<tr>
-  <td>
-    <h3>:de: Trusted Web Activitys (TWA) mit Angular</h3>
-    <p>Progressive Web Apps sind in den letzten Jahren immer populärer geworden. In diesem Blogpost werde ich Ihnen zeigen, wie Sie Ihre PWA auf einfachem Weg in den Google Play Store für Android bringen können, ohne eine echte Android-App mit Webview zu entwickeln, die lediglich eine Website aufruft.</p>
-    <a href="https://k9n.dev//blog/2020-11-twa">:arrow_forward: Read more</a>
-  </td>
-  <td>
-    <img src="https://k9n.dev/assets/images/blog/twa/header-twa-small.jpg" alt="Banner" width="400px">
   </td>
 </tr>
 
